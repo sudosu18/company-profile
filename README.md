@@ -1,2 +1,2 @@
 # company-profile
-For study website company
+For study website company with materializecss
