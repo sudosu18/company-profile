@@ -8,3 +8,6 @@ M.Slider.init(slider, {
     transition: 600,
     interval: 3000
 });
+
+const parallax = document.querySelectorAll('.parallax');
+M.Parallax.init(parallax);
